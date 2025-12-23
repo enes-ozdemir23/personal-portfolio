@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\EnesLenovo\\source\\repos\\Core_Proje\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{50857EE2-BA1D-48D2-9C00-B6EB1E897A1C}|Core_Proje\\Core_Proje.csproj|c:\\users\\eneslenovo\\source\\repos\\core_proje\\core_proje\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{50857EE2-BA1D-48D2-9C00-B6EB1E897A1C}|Core_Proje\\Core_Proje.csproj|solutionrelative:core_proje\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{50857EE2-BA1D-48D2-9C00-B6EB1E897A1C}|Core_Proje\\Core_Proje.csproj|c:\\users\\eneslenovo\\source\\repos\\core_proje\\core_proje\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50857EE2-BA1D-48D2-9C00-B6EB1E897A1C}|Core_Proje\\Core_Proje.csproj|solutionrelative:core_proje\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50857EE2-BA1D-48D2-9C00-B6EB1E897A1C}|Core_Proje\\Core_Proje.csproj|c:\\users\\eneslenovo\\source\\repos\\core_proje\\core_proje\\views\\default\\sendmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{50857EE2-BA1D-48D2-9C00-B6EB1E897A1C}|Core_Proje\\Core_Proje.csproj|solutionrelative:core_proje\\views\\default\\sendmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55D2F7F8-3699-46C8-AD77-A71D87D280BA}|BusinessLayers\\BusinessLayer.csproj|c:\\users\\eneslenovo\\source\\repos\\core_proje\\businesslayers\\concrete\\messagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55D2F7F8-3699-46C8-AD77-A71D87D280BA}|BusinessLayers\\BusinessLayer.csproj|solutionrelative:businesslayers\\concrete\\messagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50857EE2-BA1D-48D2-9C00-B6EB1E897A1C}|Core_Proje\\Core_Proje.csproj|c:\\users\\eneslenovo\\source\\repos\\core_proje\\core_proje\\viewcomponents\\contact\\sendmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50857EE2-BA1D-48D2-9C00-B6EB1E897A1C}|Core_Proje\\Core_Proje.csproj|solutionrelative:core_proje\\viewcomponents\\contact\\sendmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50857EE2-BA1D-48D2-9C00-B6EB1E897A1C}|Core_Proje\\Core_Proje.csproj|c:\\users\\eneslenovo\\source\\repos\\core_proje\\core_proje\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50857EE2-BA1D-48D2-9C00-B6EB1E897A1C}|Core_Proje\\Core_Proje.csproj|solutionrelative:core_proje\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50857EE2-BA1D-48D2-9C00-B6EB1E897A1C}|Core_Proje\\Core_Proje.csproj|c:\\users\\eneslenovo\\source\\repos\\core_proje\\core_proje\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50857EE2-BA1D-48D2-9C00-B6EB1E897A1C}|Core_Proje\\Core_Proje.csproj|solutionrelative:core_proje\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -65,68 +53,33 @@
               "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SendMessage.cshtml",
-              "DocumentMoniker": "C:\\Users\\EnesLenovo\\source\\repos\\Core_Proje\\Core_Proje\\Views\\Default\\SendMessage.cshtml",
-              "RelativeDocumentMoniker": "Core_Proje\\Views\\Default\\SendMessage.cshtml",
-              "ToolTip": "C:\\Users\\EnesLenovo\\source\\repos\\Core_Proje\\Core_Proje\\Views\\Default\\SendMessage.cshtml",
-              "RelativeToolTip": "Core_Proje\\Views\\Default\\SendMessage.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-11T18:42:33.26Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DefaultController.cs",
-              "DocumentMoniker": "C:\\Users\\EnesLenovo\\source\\repos\\Core_Proje\\Core_Proje\\Controllers\\DefaultController.cs",
-              "RelativeDocumentMoniker": "Core_Proje\\Controllers\\DefaultController.cs",
-              "ToolTip": "C:\\Users\\EnesLenovo\\source\\repos\\Core_Proje\\Core_Proje\\Controllers\\DefaultController.cs",
-              "RelativeToolTip": "Core_Proje\\Controllers\\DefaultController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB4AAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T18:39:33.557Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SendMessage.cs",
-              "DocumentMoniker": "C:\\Users\\EnesLenovo\\source\\repos\\Core_Proje\\Core_Proje\\ViewComponents\\Contact\\SendMessage.cs",
-              "RelativeDocumentMoniker": "Core_Proje\\ViewComponents\\Contact\\SendMessage.cs",
-              "ToolTip": "C:\\Users\\EnesLenovo\\source\\repos\\Core_Proje\\Core_Proje\\ViewComponents\\Contact\\SendMessage.cs",
-              "RelativeToolTip": "Core_Proje\\ViewComponents\\Contact\\SendMessage.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T18:28:26.626Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MessageManager.cs",
-              "DocumentMoniker": "C:\\Users\\EnesLenovo\\source\\repos\\Core_Proje\\BusinessLayers\\Concrete\\MessageManager.cs",
-              "RelativeDocumentMoniker": "BusinessLayers\\Concrete\\MessageManager.cs",
-              "ToolTip": "C:\\Users\\EnesLenovo\\source\\repos\\Core_Proje\\BusinessLayers\\Concrete\\MessageManager.cs",
-              "RelativeToolTip": "BusinessLayers\\Concrete\\MessageManager.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T18:28:52.283Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\EnesLenovo\\source\\repos\\Core_Proje\\Core_Proje\\Views\\Default\\Index.cshtml",
-              "RelativeDocumentMoniker": "Core_Proje\\Views\\Default\\Index.cshtml",
-              "ToolTip": "C:\\Users\\EnesLenovo\\source\\repos\\Core_Proje\\Core_Proje\\Views\\Default\\Index.cshtml",
-              "RelativeToolTip": "Core_Proje\\Views\\Default\\Index.cshtml",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAEYAAAAaAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\EnesLenovo\\source\\repos\\Core_Proje\\Core_Proje\\Views\\DashBoard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Core_Proje\\Views\\DashBoard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\EnesLenovo\\source\\repos\\Core_Proje\\Core_Proje\\Views\\DashBoard\\Index.cshtml",
+              "RelativeToolTip": "Core_Proje\\Views\\DashBoard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-06T19:07:25.129Z",
+              "WhenOpened": "2025-12-13T18:20:51.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DashBoardController.cs",
+              "DocumentMoniker": "C:\\Users\\EnesLenovo\\source\\repos\\Core_Proje\\Core_Proje\\Controllers\\DashBoardController.cs",
+              "RelativeDocumentMoniker": "Core_Proje\\Controllers\\DashBoardController.cs",
+              "ToolTip": "C:\\Users\\EnesLenovo\\source\\repos\\Core_Proje\\Core_Proje\\Controllers\\DashBoardController.cs",
+              "RelativeToolTip": "Core_Proje\\Controllers\\DashBoardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T18:20:18.392Z",
               "EditorCaption": ""
             }
           ]

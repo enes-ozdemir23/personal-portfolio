@@ -1,9 +1,10 @@
 ﻿using EntityLayer.Concrete;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace DataAccessLayer.Concrete
 {
-    public class Context : DbContext // DbContext isimli sınıftan miras alındı.
+    public class Context : IdentityDbContext<WriterUser,WriterRole,int> //   sınıftan miras alındı.
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
@@ -23,6 +24,11 @@ namespace DataAccessLayer.Concrete
         public DbSet<Skill> Skills { get; set; }
         public DbSet<SocialMedia> SocialMedias { get; set; }
         public DbSet<Testimonial> Testimonials { get; set; }
+        public DbSet<ToDoList> ToDoLists { get; set; }
+        public DbSet<Announcement> Announcements { get; set; }
+        public DbSet<WriterMessage> WriterMessages { get; set; }
+
+        
 
     }
 }

@@ -30,7 +30,7 @@ namespace BusinessLayer.Concrete
 
         public Contact TGetByID(int id)
         {
-            throw new NotImplementedException();
+            return _contactDal.GetByID(id);
         }
 
         public List<Contact> TGetList()
@@ -38,7 +38,17 @@ namespace BusinessLayer.Concrete
             return _contactDal.Getlist();
         }
 
+        public List<Contact> TGetListbyFilter()
+        {
+            throw new NotImplementedException();
+        }
+
         public void TUpdate(Contact t)
+        {
+            _contactDal.Update(t);
+        }
+
+        public static implicit operator ContactManager(AboutManager v)
         {
             throw new NotImplementedException();
         }

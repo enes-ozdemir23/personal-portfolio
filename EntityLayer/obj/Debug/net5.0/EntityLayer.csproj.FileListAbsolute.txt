@@ -8,6 +8,7 @@ C:\Users\EnesLenovo\source\repos\Core_Proje\EntityLayer\obj\Debug\net5.0\EntityL
 C:\Users\EnesLenovo\source\repos\Core_Proje\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
 C:\Users\EnesLenovo\source\repos\Core_Proje\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
 C:\Users\EnesLenovo\source\repos\Core_Proje\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\EnesLenovo\source\repos\Core_Proje\EntityLayer\obj\Debug\net5.0\EntityLayer.sourcelink.json
 C:\Users\EnesLenovo\source\repos\Core_Proje\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
 C:\Users\EnesLenovo\source\repos\Core_Proje\EntityLayer\obj\Debug\net5.0\refint\EntityLayer.dll
 C:\Users\EnesLenovo\source\repos\Core_Proje\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb

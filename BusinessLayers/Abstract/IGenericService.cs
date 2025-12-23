@@ -16,6 +16,8 @@ namespace BusinessLayer.Abstract
         List<T> TGetList();
 
         T TGetByID(int id);
+
+        List<T> TGetListbyFilter();
         // id parametresini al, geriye T tipinde bir nesne döndür.
         // T metodun türüdür. int ve string gibi
         // TGetById Bizim yazdığımz fonksiondur

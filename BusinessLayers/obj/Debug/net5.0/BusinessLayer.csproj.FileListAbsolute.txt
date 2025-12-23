@@ -1,8 +1,3 @@
-C:\Users\EnesLenovo\source\repos\Core_Proje\BusinessLayers\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
-C:\Users\EnesLenovo\source\repos\Core_Proje\BusinessLayers\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\EnesLenovo\source\repos\Core_Proje\BusinessLayers\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
-C:\Users\EnesLenovo\source\repos\Core_Proje\BusinessLayers\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
-C:\Users\EnesLenovo\source\repos\Core_Proje\BusinessLayers\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
 C:\Users\EnesLenovo\source\repos\Core_Proje\BusinessLayers\bin\Debug\net5.0\BusinessLayer.deps.json
 C:\Users\EnesLenovo\source\repos\Core_Proje\BusinessLayers\bin\Debug\net5.0\BusinessLayer.runtimeconfig.json
 C:\Users\EnesLenovo\source\repos\Core_Proje\BusinessLayers\bin\Debug\net5.0\BusinessLayer.runtimeconfig.dev.json
@@ -12,6 +7,12 @@ C:\Users\EnesLenovo\source\repos\Core_Proje\BusinessLayers\bin\Debug\net5.0\Data
 C:\Users\EnesLenovo\source\repos\Core_Proje\BusinessLayers\bin\Debug\net5.0\EntityLayer.dll
 C:\Users\EnesLenovo\source\repos\Core_Proje\BusinessLayers\bin\Debug\net5.0\DataAccessLayer.pdb
 C:\Users\EnesLenovo\source\repos\Core_Proje\BusinessLayers\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\EnesLenovo\source\repos\Core_Proje\BusinessLayers\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\EnesLenovo\source\repos\Core_Proje\BusinessLayers\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EnesLenovo\source\repos\Core_Proje\BusinessLayers\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\EnesLenovo\source\repos\Core_Proje\BusinessLayers\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\EnesLenovo\source\repos\Core_Proje\BusinessLayers\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\EnesLenovo\source\repos\Core_Proje\BusinessLayers\obj\Debug\net5.0\BusinessLayer.sourcelink.json
 C:\Users\EnesLenovo\source\repos\Core_Proje\BusinessLayers\obj\Debug\net5.0\Business.EA331CBA.Up2Date
 C:\Users\EnesLenovo\source\repos\Core_Proje\BusinessLayers\obj\Debug\net5.0\BusinessLayer.dll
 C:\Users\EnesLenovo\source\repos\Core_Proje\BusinessLayers\obj\Debug\net5.0\refint\BusinessLayer.dll

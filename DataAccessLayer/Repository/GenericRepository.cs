@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Runtime.Intrinsics.X86;
 using System.Text;
 using System.Threading.Tasks;
@@ -21,7 +22,7 @@ using DataAccessLayer.Concrete;
 namespace DataAccessLayer.Repository
 {
     public class GenericRepository<T> : IGenericDal<T> where T : class
-     
+
     {
         public void Delete(T t)
         {
@@ -29,7 +30,13 @@ namespace DataAccessLayer.Repository
             c.Remove(t);
             c.SaveChanges(); //veritabanından silinmesi bu komut kullanılır.
 
-            
+
+        }
+
+        public List<T> GetbyFilter(Expression<Func<T, bool>> filter)
+        {
+            using var c=new Context();
+            return c.Set<T>().Where(filter).ToList();
         }
 
         public T GetByID(int id)

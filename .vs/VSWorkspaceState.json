@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Core_Proje",
+    "\\Core_Proje\\Controllers",
+    "\\Core_Proje\\Views",
+    "\\Core_Proje\\Views\\About",
+    "\\Core_Proje\\Views\\Shared",
+    "\\Core_Proje\\Views\\Shared\\Components",
+    "\\Core_Proje\\Views\\Shared\\Components\\MessageList"
+  ],
+  "SelectedNode": "\\Core_Proje\\Views\\About\\Index.cshtml",
+  "PreviewInSolutionExplorer": false
+}
